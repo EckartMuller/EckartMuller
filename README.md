@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gunel.berkant07@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Software Engineering Student Grade 1
 
 <!---
 EckartMuller/EckartMuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
